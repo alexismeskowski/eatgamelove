@@ -4,7 +4,7 @@ project:
 website:
   title: "Eat Game Love"
   navbar:
-    logo:  "EGL_HC_Logo_Smol.png"  
+    logo:  "images/egl_hc_logo_smol.png"  
     left:
       - href: index.qmd
         text: Home

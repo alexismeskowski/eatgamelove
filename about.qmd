@@ -15,6 +15,6 @@ It's my mission to help online gamers find areas of their personal wellness that
 :::
 
 ::: g-col-5
-![](lexi_pic%20-%20Copy.png){fig-align="right"}
+![](images/about/lexi_pic.png){fig-align="right"}
 :::
 :::

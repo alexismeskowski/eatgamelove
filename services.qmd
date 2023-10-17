@@ -5,17 +5,17 @@ format:
     page-layout: full
 ---
 
-![](services_banner.png){fig-align="center"}
+![](images/services/banner.png){fig-align="center"}
 
 ### 📝 Free Consultation
 
-![](services_banner_consultation.png){fig-align="center"}
+![](images/services/banner_consultation.png){fig-align="center"}
 
 **A free 20-30 minute meeting where I can introduce myself, share more about my coaching style, and see how I can help you to create the kind of change you are looking for.** We can discuss the length of coaching you would like to receive (usually 12 weeks) and what the cost will be. If you think coaching would be a good fit for you then we can move on to schedule some health coaching sessions!
 
 ### 🥊 Health Coaching
 
-![](services_banner_coaching.png){fig-align="center"}
+![](images/services/banner_coaching.png){fig-align="center"}
 
 If you have completed a free consultation and decided that health coaching seems like a good fit for you, we can begin a health coaching agreement. **We'll meet virtually for 45 minutes to 1 hour once a week to discuss goals, challenges, feelings, and develop an action plan for the week that you can feel good about.** Evidence suggests that change occurs best with a 12 week program so I will always recommend our agreement lasts 12 weeks.
 
@@ -25,7 +25,7 @@ Every week we'll work together through your action plan and make adjustments as 
 
 I take a holistic approach to health and wellness, using the [6 dimensions of health](https://cdn.ymaws.com/members.nationalwellness.org/resource/resmgr/tools2/6dimensionssummary.pdf){target="blank"} recognized and defined by the National Wellness Institute. As we make a coaching agreement I will send you a simple health assessment using these areas of wellness to give a good idea of your strengths and areas we can look to improve.
 
-![](EGL_HC_Dimensions.png){fig-align="center"}
+![](images/services/egl_hc_dimensions.png){fig-align="center"}
 
 **💪Physical Wellness** - The consistent prioritization of physical self-care and the engagement in a variety of health-enriching behaviors.
 

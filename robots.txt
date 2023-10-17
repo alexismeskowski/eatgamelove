@@ -1,1 +1,1 @@
-Sitemap: https://alexismeskowski.github.io/eatgamelove/sitemap.xml
+Sitemap: https://github.com/alexismeskowski/eatgamelove/sitemap.xml

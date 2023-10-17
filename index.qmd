@@ -1,8 +1,9 @@
 ---
-title: "Home"
+title: Home
 format: 
   html:
     page-layout: full
+    template: "templates/no-title.html"
 ---
 
 ![](images/index/egl_hc_block_banner.png){width="4928"}It's my mission to help online gamers find areas of their personal wellness that need attention and use their natural strengths to develop simple action plans for lasting change, improving their overall health, well-being, and confidence.

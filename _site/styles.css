@@ -29,7 +29,13 @@ p {
 }
 
 .callout-title-container {
+  color: #272727;
   font-size: x-large;
+}
+
+/* https://stackoverflow.com/questions/22252472/how-can-i-change-the-color-of-an-svg-element */
+.callout-toggle {
+   filter: invert(12%) sepia(1%) saturate(0%) hue-rotate(25deg) brightness(100%) contrast(93%);
 }
 
 .no-tbr-border {
@@ -39,5 +45,9 @@ p {
 }
 
 .callout.callout-titled .callout-body {
-    margin-top: 1.5em;
+  margin-top: 1.5em;
+}
+
+.callout-style-simple {
+  background-color: #dceefc;
 }

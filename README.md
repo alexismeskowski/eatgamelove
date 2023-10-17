@@ -4,4 +4,4 @@
 
 <!-- badges: end -->
 
-Source code for my website [eatgamelove.net](https://www.eatgamelove.net/){target="blank"} (c8
+Source code for my website [eatgamelove.net](https://www.eatgamelove.net/) (c8

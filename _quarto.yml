@@ -3,8 +3,16 @@ project:
 
 website:
   title: "Eat Game Love"
+  site-url: https://eatgamelove.net
+  favicon: "images/favicon/apple-touch-icon.png"
+  search: false
+  google-analytics:
+    tracking-id: "G-HTJZRVJYRW"
+    anonymize-ip: true
+  open-graph: true
+  twitter-card: true
   navbar:
-    logo:  "images/egl_hc_logo_smol.png"  
+    logo: "images/egl_hc_logo_smol.png"  
     left:
       - href: index.qmd
         text: Home

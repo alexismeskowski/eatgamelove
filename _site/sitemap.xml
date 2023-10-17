@@ -1,43 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://alexismeskowski.github.io/eatgamelove/services.html</loc>
-    <lastmod>2023-10-17T03:23:51.953Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexismeskowski.github.io/eatgamelove/index.html</loc>
-    <lastmod>2023-10-17T03:23:51.013Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexismeskowski.github.io/eatgamelove/about.html</loc>
-    <lastmod>2023-10-17T03:23:50.109Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexismeskowski.github.io/eatgamelove/FAQ.html</loc>
-    <lastmod>2023-10-17T03:23:50.622Z</lastmod>
-  </url>
-  <url>
-    <loc>https://alexismeskowski.github.io/eatgamelove/resources.html</loc>
-    <lastmod>2023-10-17T03:23:51.504Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eatgamelove.net/resources.html</loc>
-    <lastmod>2023-10-17T04:55:33.941Z</lastmod>
+    <loc>https://eatgamelove.net/services.html</loc>
+    <lastmod>2023-10-17T05:24:48.869Z</lastmod>
   </url>
   <url>
     <loc>https://eatgamelove.net/index.html</loc>
-    <lastmod>2023-10-17T05:16:15.436Z</lastmod>
+    <lastmod>2023-10-17T05:24:47.900Z</lastmod>
   </url>
   <url>
     <loc>https://eatgamelove.net/about.html</loc>
-    <lastmod>2023-10-17T04:55:29.333Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eatgamelove.net/services.html</loc>
-    <lastmod>2023-10-17T04:55:30.800Z</lastmod>
+    <lastmod>2023-10-17T05:24:46.843Z</lastmod>
   </url>
   <url>
     <loc>https://eatgamelove.net/FAQ.html</loc>
-    <lastmod>2023-10-17T04:55:32.203Z</lastmod>
+    <lastmod>2023-10-17T05:24:47.405Z</lastmod>
+  </url>
+  <url>
+    <loc>https://eatgamelove.net/resources.html</loc>
+    <lastmod>2023-10-17T05:24:48.323Z</lastmod>
   </url>
 </urlset>

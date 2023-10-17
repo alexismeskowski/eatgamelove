@@ -1,0 +1,47 @@
+---
+title: "FAQ"
+---
+
+Frequently asked questions. If you have a question that I haven't answered or you would like more info, you can always feel free to send me a message over Discord and I would be happy to help you!
+
+::: {.lb-yellow .no-tbr-border .callout-note collapse="true" appearance="minimal"}
+#### 🙋‍♂️ What is health coaching?
+
+Health coaching is a partnership between coach and client to see areas for health improvement, develop a plan for change, and work through that change on a regular basis. I meet with clients once weekly for 12 weeks in order to help you brainstorm, encourage your natural strengths, listen to your challenges, and help you to find a change that works for you.
+:::
+
+::: {.lb-purple .no-tbr-border .callout-warning collapse="true" appearance="minimal"}
+#### 🤷‍♀️ How can coaching help me?
+
+Coaching can help you to have the motivation and confidence needed to make a healthy lifestyle change that works for you. Maybe you are having trouble getting enough sleep every night, especially when your favorite new game just dropped. I can help you work through your strengths, focus on a plan, and confidently catch some Z's.
+
+I'm passionate about holistic wellness and can help with a wide range of health goals, even if you are unsure of where you would like to start. By the end of our 12 weeks together you will be more self-assured and capable to continue making healthy change.
+:::
+
+::: {.lb-blue .no-tbr-border .callout-note collapse="true" appearance="minimal"}
+#### 🎮 Do I have to be a gamer for you to coach me?
+
+Absolutely not! Whether you play video games or not I would still love to coach you. I market my services towards gamers because I can personally relate my lifestyle to others in the hobby but I will never gatekeep my services from someone that is interested in being coached by me.
+:::
+
+::: {.lb-hot-pink .no-tbr-border .callout-important collapse="true" appearance="minimal"}
+#### 🎓 What are your qualifications as a health coach?
+
+I received my certification as a Health Education Specialist (CHES) in 2019 and recently received my certification as a Wellness Practitioner (CWP) in September of 2023. I also completed a training program in Health and Wellness Coaching through the National Wellness Institute and am looking to fulfill the session requirements to become a board certified health coach.
+
+I have always wanted to help people on an individual level and I'm committed to continuing to learn and grow through hands-on sessions as I continue in my journey as a health coach.
+:::
+
+::: {.lb-green .no-tbr-border .callout-tip collapse="true" appearance="minimal"}
+#### 📄 Are your services covered by health insurance?
+
+My services are not currently covered under health insurance so I do my best to keep that in mind when setting prices for my coaching agreements.
+:::
+
+::: {.lb-periwinkle .no-tbr-border .callout-caution collapse="true" appearance="minimal"}
+#### 🤔 How is health coaching different from therapy?
+
+Health coaching can be a great addition to your overall wellbeing but does not replace the role of a therapist.
+
+As a health coach I focus on improving your health through lifestyle changes like sleep and exercise, while a therapist focuses on addressing mental and emotional wellbeing, treating things like anxiety and depression. I have certifications as a Wellness Practitioner (CWP) and a Health Education Specialist (CHES) as well as being trained in health coaching to help clients achieve specific health outcomes. Therapists have advanced degrees and offer psychotherapy focusing on specifically mental health.
+:::

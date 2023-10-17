@@ -1,0 +1,10 @@
+---
+title: ""
+format: 
+  html:
+    page-layout: full
+---
+
+![](EGLHC%20(Blog%20Banner).png){width="4928"}It's my mission to help online gamers find areas of their personal wellness that need attention and use their natural strengths to develop simple action plans for lasting change, improving their overall health, well-being, and confidence.
+
+I'm a newly certified health coach looking to get some experience under my belt! **I'm offering free coaching sessions right now for new clients who would like to try health coaching.** Start a new health journey and help me get my required experience to sit for the board certification exam next year! Feel free to check out my Services and FAQ page to learn more.

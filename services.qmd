@@ -1,0 +1,52 @@
+---
+title: "Services"
+format:
+  html:
+    page-layout: full
+---
+
+![](services_banner.png){fig-align="center"}
+
+### 📝 Free Consultation
+
+![](services_banner_consultation.png){fig-align="center"}
+
+**A free 20-30 minute meeting where I can introduce myself, share more about my coaching style, and see how I can help you to create the kind of change you are looking for.** We can discuss the length of coaching you would like to receive (usually 12 weeks) and what the cost will be. If you think coaching would be a good fit for you then we can move on to schedule some health coaching sessions!
+
+### 🥊 Health Coaching
+
+![](services_banner_coaching.png){fig-align="center"}
+
+If you have completed a free consultation and decided that health coaching seems like a good fit for you, we can begin a health coaching agreement. **We'll meet virtually for 45 minutes to 1 hour once a week to discuss goals, challenges, feelings, and develop an action plan for the week that you can feel good about.** Evidence suggests that change occurs best with a 12 week program so I will always recommend our agreement lasts 12 weeks.
+
+Every week we'll work together through your action plan and make adjustments as you navigate incorporating healthy changes into your life. I will be here to support you without judgement and with unconditional positive regard towards you and your health goals. By the end of the 12 weeks you will be able to say that you made a positive commitment towards your health and it will be satisfying to look back at how much you have grown.
+
+### 🌈 Dimensions of Wellness
+
+I take a holistic approach to health and wellness, using the [6 dimensions of health](https://cdn.ymaws.com/members.nationalwellness.org/resource/resmgr/tools2/6dimensionssummary.pdf){target="blank"} recognized and defined by the National Wellness Institute. As we make a coaching agreement I will send you a simple health assessment using these areas of wellness to give a good idea of your strengths and areas we can look to improve.
+
+![](EGL_HC_Dimensions.png){fig-align="center"}
+
+**💪Physical Wellness** - The consistent prioritization of physical self-care and the engagement in a variety of health-enriching behaviors.
+
+ex: walking, tennis, yoga, managing medications, stretching, flossing, etc
+
+**🧘‍♂️Spiritual Wellness** - The development of an appreciation for the depth and expanse of life and natural forces that exist in the universe.
+
+ex: journaling, quiet time, nature walks, meditating/praying, etc
+
+**🧠Intellectual Wellness** - The creative, stimulating activities that lead to learning, personal growth, and the sharing of one's unique gifts with others.
+
+ex: reading, painting, playing DnD, cooking, etc
+
+**🙋‍♀️Social Wellness** - The contribution to one's environment and community with an emphasis on the interdependence between others and nature.
+
+ex: coffee with friends, discord community night, joining a club, gaming with friends, etc
+
+**💻Occupational Wellness** - The personal satisfaction and enrichment one receives in life through their employment, academic, or volunteer work.
+
+ex: volunteering at the food pantry, taking your work breaks, taking a class, doing homework, etc
+
+**🎭Emotional Wellness** - The awareness and acceptance of one's feelings and the capacity to manage behaviors related to one's emotional state.
+
+ex: sleeping, body scan meditations, gratitude exercise, therapy sessions, etc

@@ -1,0 +1,43 @@
+/* css styles */
+
+/* Navbar page title spacing */
+#navbarCollapse > ul > li {
+  padding-right: 10px;
+}
+
+/* Logo on navbar size and spacing */
+.navbar-logo {
+  max-height: 50px;
+  padding-right: 10px;
+}
+
+/* Spread out TOC on FAQ */
+#TOC > ul > li {
+  padding-bottom: 5px;
+}
+
+p {
+  text-indent: 2rem;
+}
+
+#quarto-margin-sidebar {
+  padding-left: 15px;
+}
+
+.menu-text {
+  font-size: large;
+}
+
+.callout-title-container {
+  font-size: x-large;
+}
+
+.no-tbr-border {
+  border-top: 0px !important;
+  border-right: 0px !important;
+  border-bottom: 0px !important;
+}
+
+.callout.callout-titled .callout-body {
+    margin-top: 1.5em;
+}

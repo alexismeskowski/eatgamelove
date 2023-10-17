@@ -1,0 +1,20 @@
+---
+title: "About"
+format: 
+  html:
+    page-layout: full
+---
+
+::: grid
+::: g-col-7
+Hi! My name is Alexis Meskowski (AKA theRealActualToilet) and I'm a Health Coach and Educator. I've always been passionate about finding a balance between all areas of wellness and everyday life.
+
+I'm also a huge gamer with ADHD so finding that balance can be difficult sometimes! It would be nice to have someone there to encourage and plan through starting new changes without feeling judged. Luckily I have learned how to cultivate growth for healthy change in my life alongside my interests and I would like to help others do the same!
+
+It's my mission to help online gamers find areas of their personal wellness that need attention and use their natural strengths to develop simple action plans for lasting change, improving their overall health, well-being, and confidence.
+:::
+
+::: g-col-5
+![](lexi_pic%20-%20Copy.png){fig-align="right"}
+:::
+:::

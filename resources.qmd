@@ -1,0 +1,47 @@
+---
+title: "Resources"
+---
+
+Here is a list of resources that I have compiled for those who may be looking for a good place to start making change.
+
+::: {.lb-yellow .no-tbr-border .callout-note collapse="true" appearance="minimal"}
+#### 👟 Healthy movement
+
+[Yoga With Adrienne](https://www.youtube.com/@yogawithadriene) on YouTube
+
+[LivestrongWomen](https://youtube.com/@livestrongwomen?si=WIHbuhHmLq9ugrzZ) on YouTube
+:::
+
+::: {.lb-purple .no-tbr-border .callout-warning collapse="true" appearance="minimal"}
+#### 🥑 Balanced Recipe Ideas
+
+[Mina Rome](https://www.youtube.com/@Mina_Rome) on YouTube (she is vegan! 🌱)
+
+[Budget Bytes](https://www.budgetbytes.com/)
+:::
+
+::: {.lb-blue .no-tbr-border .callout-important collapse="true" appearance="minimal"}
+#### 🧠 Mindfulness Exercises
+
+[Calm](https://www.youtube.com/@calm) on YouTube
+:::
+
+::: {.lb-hot-pink .no-tbr-border .callout-tip collapse="true" appearance="minimal"}
+#### 😎 Helpful Health Apps
+
+[Finch](https://finchcare.com/) - Personal wellness companion
+
+[Calm](https://www.calm.com/) - Meditation
+:::
+
+::: {.lb-green .no-tbr-border .callout-caution collapse="true" appearance="minimal"}
+#### 🎮 Relaxing games I recommend
+
+[Animal Crossing New Horizons](https://animalcrossing.nintendo.com/new-horizons/)
+
+[Palia](https://palia.com/)
+
+[Stardew Valley](https://www.stardewvalley.net/)
+
+[Unpacking](https://store.steampowered.com/app/1135690/Unpacking/)
+:::

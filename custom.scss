@@ -1,0 +1,80 @@
+/*-- scss:defaults --*/
+
+/*-- 
+# Fonts
+
+1. Find a font you like and get the name
+    - Ex: Dela Gothic One
+2. Import the font on the '@import url(...' line. Change the end of the URL with the wanted font. Swap the spaces, if any, with + signs
+    - Example: ...?family=Dela+Gothic_One
+3. Set the font on the '* { font-family:...' line. Put the wanted wanted font name there
+    - Example: Dela Gothic One
+--*/
+
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed');
+
+h1, h2, h3, h4, h5, h6, .menu-text, .navbar-title { font-family: Dela Gothic One !important; }
+
+/*-- Font settings for body text --*/
+p, a, b { 
+  font-family: Fira Sans Condensed !important; 
+  font-size: 24px;
+}
+
+/*-- Brand Colors --*/
+$egl_blue: #4ab6ff;
+$egl_green: #a9f682;
+$egl_hot_pink: #ff499e;
+$egl_light_blue: #c6e3fa;
+$egl_periwinkle: #779be7;
+$egl_pink: #ffc2e3;
+$egl_purple: #a580ce;
+$egl_yellow: #fde962;
+
+$white: #fff;
+$dark: #1c1224;
+
+$light: $egl_light_blue;
+$dark: #1c1224;
+$primary: $egl_periwinkle;
+$secondary: #aaf683;
+
+$body-bg: $egl_light_blue;
+
+/*--
+$info: #5dce74;
+$success: #6fc500;
+$warning: #ffca8c;
+$danger: #ff0f6d;
+
+$link-color: $secondary;
+--*/
+
+#title-block-header > div.quarto-title > h1 {
+  color: $egl_purple;
+}
+
+.lb-yellow {
+  border-left-color: $egl_yellow !important;
+}
+
+.lb-purple {
+  border-left-color: $egl_purple !important;
+}
+
+.lb-blue {
+  border-left-color: $egl_blue !important;
+}
+
+.lb-hot-pink {
+  border-left-color: $egl_hot_pink !important;
+}
+
+.lb-green {
+  border-left-color: $egl_green !important;
+}
+
+.lb-periwinkle {
+  border-left-color: $egl_periwinkle !important;
+}
